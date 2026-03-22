@@ -109,3 +109,10 @@ We welcome contributions! Here are some ideas for new features:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
+
+## 📢 Disclaimer: Web3 / $BATTLE Token
+
+This project is a technical AI experiment. It has been used as the basis for a third-party cryptocurrency token ($BATTLE) on the Solana blockchain.
+I did not launch this token.
+I do not manage the project or its community.
+Fees redirected to this GitHub are accepted as open-source donations only.

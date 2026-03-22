@@ -1,0 +1,5 @@
+{
+  "name": "Botanical Battle",
+  "description": "A 10x10 grid simulation where two AI agents compete to grow the most successful garden using resource management and strategic growth.",
+  "requestFramePermissions": []
+}
